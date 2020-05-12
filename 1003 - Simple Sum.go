@@ -13,7 +13,7 @@ func main() {
 	fmt.Println("Entre com o segundo valor:")
 	fmt.Scanln(&b)
 
-	fmt.Println("Soma: ", sum(a, b))
+	fmt.Println("SOMA = ", sum(a, b))
 
 }
 
